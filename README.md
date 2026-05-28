@@ -8,6 +8,13 @@ The system predicts the most probable next word for a given input phrase and pro
 
 ---
 
+# Source Code Notice 
+
+Source code is private and not publicly available.
+This repository is intended for showcasing project features, screenshots, and documentation only.
+
+---
+
 # Features
 
 ## Intelligent Next Word Prediction
